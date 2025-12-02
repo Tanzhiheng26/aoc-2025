@@ -4,3 +4,4 @@
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | 1 | :star: | :star: |
+| 2 | :star: | :star: |
