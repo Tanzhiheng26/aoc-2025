@@ -10,3 +10,4 @@
 | 5 | :star: | :star: |
 | 6 | :star: | :star: |
 | 7 | :star: | :star: |
+| 8 | :star: | :star: |
